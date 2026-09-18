@@ -26,9 +26,4 @@ The prediction engine factors in the following independent variables to output t
 6. **Preparation Time**: Time required by the restaurant to prepare the food (minutes).
 7. **Courier Experience**: Driver's experience level (years).
 
-## 🚀 Quick Start
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/yourusername/SwiftETA.git](https://github.com/yourusername/SwiftETA.git)
-cd SwiftETA
+Live Link - https://food-delivery-time-prediction-xsuud8upe6hgkd2ztcz3xs.streamlit.app/
